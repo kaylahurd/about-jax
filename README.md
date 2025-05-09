@@ -1,3 +1,3 @@
 I love my little cousin!
 
-Why not make a little webpage about him!
+Testing GitHub Copilot Extension on VS Code. 
